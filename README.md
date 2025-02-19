@@ -1,5 +1,7 @@
 # Community-Detection-in-Complex-Networks
 
+Access Notebook here: https://nbviewer.org/github/GhulamAYESHA/Community-Detection-in-Complex-Networks/blob/main/Community%20Detection%20code.ipynb
+
 ## Introduction
 Networks, both natural and human-made, play crucial roles across disciplines such as biology, computer science, sociology, and physics. Community detection is a significant aspect of network theory, focusing on identifying clusters within networks where internal connections are denser than external ones. As data from social media, biology, and technology continues to grow, the need for advanced community detection techniques becomes critical. This study aims to explore community structures within credit card transaction networks to improve financial services, particularly in fraud detection and customer segmentation.
 
